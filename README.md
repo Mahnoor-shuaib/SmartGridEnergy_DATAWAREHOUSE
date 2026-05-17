@@ -36,8 +36,9 @@ We built a **dedicated Data Warehouse** using **Star Schema** (1 Fact table + 5 
 
 ---
 
-> *"Same data warehouse. Now answers in seconds."*
+*"Same data. Now answers in seconds, not hours."*
 
+---
 ## 🛠️ Tech
 
 Oracle DB · Java 23 · Swing · ojdbc17 · NetBeans 25
