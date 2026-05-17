@@ -34,9 +34,4 @@ We built a **dedicated Data Warehouse** using **Star Schema** (1 Fact table + 5 
 - Revenue by tariff category & city
 - GUI for non-technical users
 
-
-*"Same data. Now answers in seconds, not hours."*
-
-## 🛠️ Tech
-
-Oracle DB · Java 23 · Swing · ojdbc17 · NetBeans 25
+## *"Same data. Now answers in seconds, not hours."*
